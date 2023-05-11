@@ -54,7 +54,7 @@ hdfs dfs -put breweries.csv /data/openbeer/breweries/breweries.csv
 ```
 
 
-<!-- ## Quick Start Spark (PySpark)
+## Quick Start Spark (PySpark)
 
 Go to http://<dockerhadoop_IP_address>:8080 or http://localhost:8080/ on your Docker host (laptop) to see the status of the Spark master.
 
@@ -144,7 +144,7 @@ only showing top 20 rows
 
 ```
 
-How cool is that? Your own Spark cluster to play with. -->
+How cool is that? Your own Spark cluster to play with.
 
 
 ## Quick Start Hive
